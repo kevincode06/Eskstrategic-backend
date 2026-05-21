@@ -11,7 +11,7 @@ app.use(
     origin: [
       "https://www.eskstrategic.co.za",
       "https://eskstrategic.co.za",
-      "http://localhost:3000",
+      "http://localhost:5000",
     ],
     methods: ["GET", "POST"],
   }),
